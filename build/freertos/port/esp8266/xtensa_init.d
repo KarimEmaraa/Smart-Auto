@@ -1,0 +1,102 @@
+port/esp8266/xtensa_init.o: \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/freertos/port/esp8266/xtensa_init.c \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/freertos/port/esp8266/include/freertos/xtensa_rtos.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/xtensa/config/core.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/xtensa/hal.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/xtensa/config/core-isa.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/xtensa/config/core-matmap.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/xtensa/config/tie.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/xtensa/corebits.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/xtensa/config/system.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/xtensa/simcall.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/freertos/port/esp8266/include/freertos/xtensa_context.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/freertos/port/esp8266/include/freertos/xtensa_timer.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h \
+ /home/hp/NODE-MCU-WS/_default/build/include/sdkconfig.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/stdlib.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/machine/ieeefp.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/_ansi.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/newlib.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/sys/config.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/sys/features.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/sys/reent.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/_ansi.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/sys/_types.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/machine/_types.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/machine/_default_types.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/sys/lock.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/sys/cdefs.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/machine/stdlib.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/alloca.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/rom/ets_sys.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/stdint.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/sys/_intsup.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/esp8266/eagle_soc.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/freertos/port/esp8266/include/freertos/xtensa_rtos.h
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/freertos/port/esp8266/include/freertos/xtensa_rtos.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/xtensa/config/core.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/xtensa/hal.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/xtensa/config/core-isa.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/xtensa/config/core-matmap.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/xtensa/config/tie.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/xtensa/corebits.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/xtensa/config/system.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/xtensa/simcall.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/freertos/port/esp8266/include/freertos/xtensa_context.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/freertos/port/esp8266/include/freertos/xtensa_timer.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h:
+
+/home/hp/NODE-MCU-WS/_default/build/include/sdkconfig.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/stdlib.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/machine/ieeefp.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/_ansi.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/newlib.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/sys/config.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/sys/features.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/sys/reent.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/_ansi.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/sys/_types.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/machine/_types.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/machine/_default_types.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/sys/lock.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/sys/cdefs.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/machine/stdlib.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/alloca.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/rom/ets_sys.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/stdint.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/sys/_intsup.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/esp8266/eagle_soc.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/freertos/port/esp8266/include/freertos/xtensa_rtos.h:
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/freertos/port/esp8266/xtensa_init.c:
