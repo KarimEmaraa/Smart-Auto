@@ -2,7 +2,7 @@ lwip/src/core/ipv4/ip4.o: \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/lwip/lwip/src/core/ipv4/ip4.c \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/lwip/lwip/src/include/lwip/opt.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/lwip/port/esp8266/include/lwipopts.h \
- /home/hp/NODE-MCU-WS/_default/build/include/sdkconfig.h \
+ /home/hp/NODE-MCU-WS/project_template/build/include/sdkconfig.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/esp_libc.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/stdint.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/machine/_default_types.h \
@@ -74,7 +74,7 @@ lwip/src/core/ipv4/ip4.o: \
 
 /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/lwip/port/esp8266/include/lwipopts.h:
 
-/home/hp/NODE-MCU-WS/_default/build/include/sdkconfig.h:
+/home/hp/NODE-MCU-WS/project_template/build/include/sdkconfig.h:
 
 /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/esp_libc.h:
 

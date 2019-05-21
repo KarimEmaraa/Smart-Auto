@@ -1,6 +1,6 @@
 src/bootloader_utility.o: \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/bootloader_support/src/bootloader_utility.c \
- /home/hp/NODE-MCU-WS/_default/build/bootloader/../include/sdkconfig.h \
+ /home/hp/NODE-MCU-WS/project_template/build/bootloader/../include/sdkconfig.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/bootloader_support/include_priv/bootloader_config.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/spi_flash/include/esp_flash_data_types.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/bootloader_support/include_priv/bootloader_utility.h \
@@ -17,7 +17,7 @@ src/bootloader_utility.o: \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/log/include/esp_log_internal.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/bootloader_support/include/esp_flash_partitions.h
 
-/home/hp/NODE-MCU-WS/_default/build/bootloader/../include/sdkconfig.h:
+/home/hp/NODE-MCU-WS/project_template/build/bootloader/../include/sdkconfig.h:
 
 /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/bootloader_support/include_priv/bootloader_config.h:
 

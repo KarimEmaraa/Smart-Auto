@@ -1,6 +1,6 @@
 src/esp_image_format.o: \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/bootloader_support/src/esp_image_format.c \
- /home/hp/NODE-MCU-WS/_default/build/include/sdkconfig.h \
+ /home/hp/NODE-MCU-WS/project_template/build/include/sdkconfig.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/string.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/_ansi.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/newlib.h \
@@ -46,7 +46,7 @@ src/esp_image_format.o: \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/bootloader_support/include_priv/bootloader_random.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/bootloader_support/include_priv/bootloader_sha.h
 
-/home/hp/NODE-MCU-WS/_default/build/include/sdkconfig.h:
+/home/hp/NODE-MCU-WS/project_template/build/include/sdkconfig.h:
 
 /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/string.h:
 

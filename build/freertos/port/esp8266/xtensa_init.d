@@ -12,7 +12,7 @@ port/esp8266/xtensa_init.o: \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/freertos/port/esp8266/include/freertos/xtensa_context.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/freertos/port/esp8266/include/freertos/xtensa_timer.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h \
- /home/hp/NODE-MCU-WS/_default/build/include/sdkconfig.h \
+ /home/hp/NODE-MCU-WS/project_template/build/include/sdkconfig.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/stdlib.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/machine/ieeefp.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/_ansi.h \
@@ -58,7 +58,7 @@ port/esp8266/xtensa_init.o: \
 
 /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h:
 
-/home/hp/NODE-MCU-WS/_default/build/include/sdkconfig.h:
+/home/hp/NODE-MCU-WS/project_template/build/include/sdkconfig.h:
 
 /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/stdlib.h:
 

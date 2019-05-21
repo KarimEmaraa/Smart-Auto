@@ -1,6 +1,6 @@
 bootloader_start.o: \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/bootloader/subproject/main/bootloader_start.c \
- /home/hp/NODE-MCU-WS/_default/build/bootloader/../include/sdkconfig.h \
+ /home/hp/NODE-MCU-WS/project_template/build/bootloader/../include/sdkconfig.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/bootloader_support/include_priv/bootloader_config.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/spi_flash/include/esp_flash_data_types.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/bootloader_support/include_priv/bootloader_init.h \
@@ -16,7 +16,7 @@ bootloader_start.o: \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/spi_flash/include/esp_spi_flash.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/spi_flash/include/spi_flash.h
 
-/home/hp/NODE-MCU-WS/_default/build/bootloader/../include/sdkconfig.h:
+/home/hp/NODE-MCU-WS/project_template/build/bootloader/../include/sdkconfig.h:
 
 /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/bootloader_support/include_priv/bootloader_config.h:
 

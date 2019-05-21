@@ -1,6 +1,6 @@
 src/base64.o: \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/util/src/base64.c \
- /home/hp/NODE-MCU-WS/_default/build/include/sdkconfig.h \
+ /home/hp/NODE-MCU-WS/project_template/build/include/sdkconfig.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/util/include/esp_base64.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/stdint.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/machine/_default_types.h \
@@ -19,7 +19,7 @@ src/base64.o: \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/machine/_types.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/sys/lock.h
 
-/home/hp/NODE-MCU-WS/_default/build/include/sdkconfig.h:
+/home/hp/NODE-MCU-WS/project_template/build/include/sdkconfig.h:
 
 /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/util/include/esp_base64.h:
 

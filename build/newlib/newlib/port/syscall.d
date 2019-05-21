@@ -1,6 +1,6 @@
 newlib/port/syscall.o: \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/port/syscall.c \
- /home/hp/NODE-MCU-WS/_default/build/include/sdkconfig.h \
+ /home/hp/NODE-MCU-WS/project_template/build/include/sdkconfig.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/stdio.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/_ansi.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/newlib.h \
@@ -60,7 +60,7 @@ newlib/port/syscall.o: \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/log/include/esp_log.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/log/include/esp_log_internal.h
 
-/home/hp/NODE-MCU-WS/_default/build/include/sdkconfig.h:
+/home/hp/NODE-MCU-WS/project_template/build/include/sdkconfig.h:
 
 /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/stdio.h:
 

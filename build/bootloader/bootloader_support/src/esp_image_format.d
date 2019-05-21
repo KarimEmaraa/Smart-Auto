@@ -1,6 +1,6 @@
 src/esp_image_format.o: \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/bootloader_support/src/esp_image_format.c \
- /home/hp/NODE-MCU-WS/_default/build/bootloader/../include/sdkconfig.h \
+ /home/hp/NODE-MCU-WS/project_template/build/bootloader/../include/sdkconfig.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/bootloader_support/include/esp_image_format.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/esp_err.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/bootloader_support/include/esp_flash_partitions.h \
@@ -16,7 +16,7 @@ src/esp_image_format.o: \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/bootloader_support/include_priv/bootloader_random.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/bootloader_support/include_priv/bootloader_sha.h
 
-/home/hp/NODE-MCU-WS/_default/build/bootloader/../include/sdkconfig.h:
+/home/hp/NODE-MCU-WS/project_template/build/bootloader/../include/sdkconfig.h:
 
 /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/bootloader_support/include/esp_image_format.h:
 

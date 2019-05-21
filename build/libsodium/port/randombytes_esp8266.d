@@ -27,7 +27,7 @@ port/randombytes_esp8266.o: \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/sys/reent.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/sys/stdio.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/assert.h \
- /home/hp/NODE-MCU-WS/_default/build/include/sdkconfig.h
+ /home/hp/NODE-MCU-WS/project_template/build/include/sdkconfig.h
 
 /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/libsodium/port/randombytes_default.h:
 
@@ -83,5 +83,5 @@ port/randombytes_esp8266.o: \
 
 /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/assert.h:
 
-/home/hp/NODE-MCU-WS/_default/build/include/sdkconfig.h:
+/home/hp/NODE-MCU-WS/project_template/build/include/sdkconfig.h:
 /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/libsodium/port/randombytes_esp8266.c:
