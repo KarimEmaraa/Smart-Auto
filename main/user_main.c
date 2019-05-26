@@ -207,7 +207,7 @@ static void mqtt_client_thread(void *pvParameters)
         message.qos = MQTT_PUB_QOS;
         message.retained = 0;
         message.payload = payload;
-        sprintf(payload, "received data %d", distance);
+        sprintf(payload, "%d ", distance);
         message.payloadlen = strlen(payload);
         for (;;) {
             
@@ -221,7 +221,7 @@ static void mqtt_client_thread(void *pvParameters)
 			}*/
 
 			ultrasonic_measure_cm(&sensor, MAX_DISTANCE_CM, &distance);
-			sprintf(payload, "received data %d", distance);
+			sprintf(payload, "%d", distance);
             if ((rc = MQTTPublish(&client, MQTT_PUB_TOPIC, &message)) != 0) {
                 ESP_LOGE(TAG, "Return code from MQTT publish is %d", rc);
             } else {
@@ -243,7 +243,7 @@ static void mqtt_client_thread(void *pvParameters)
     return;
 }
 
-static void ultrasonic_AutoBreak(void *pvParamters)
+/*static void ultrasonic_AutoBreak(void *pvParamters)
 {
 	
 	//ESP_LOGE(TAG, "FIRST LINE %s", "IN TASK AUTOBREAK");
@@ -254,33 +254,33 @@ static void ultrasonic_AutoBreak(void *pvParamters)
 	
     ultrasonic_init(&sensor);
 	BaseType_t status;
-	uint8_t data = 1;
+	uint32_t data = 0;
 	uint32_t distance = 0;
     while (true)
     {
         //uint32_t distance;
         esp_err_t res = ultrasonic_measure_cm(&sensor, MAX_DISTANCE_CM, &distance);
-        /*if (res != ESP_OK)
+        if (res != ESP_OK)
         {
 			ESP_LOGE(TAG, "mqtt create client thread %s failed", "IN TASK AUTOBREAK");
         }
         else
 		{
 			printf("Distance: %d cm, %.02f m\n", distance, distance / 100.0);
-		}*/
+		}
 
 			printf("Distance: %d cm, data %d m\n", distance, data);
 			if(distance <= 15)
 			{
-				/*if(status != pdPASS)
+				if(status != pdPASS)
 				{
 					ESP_LOGE(TAG, "FAILED TO SEND EMERGENCY");
-				}*/
+				}
 				printf("Distance IN DATA: %d cm, data %d m\n", distance, data);
 			}
 			vTaskDelay(100 / portTICK_PERIOD_MS);
 		}
-}
+}*/
 
 void app_main(void)
 {
@@ -316,7 +316,7 @@ void app_main(void)
                       MQTT_CLIENT_THREAD_STACK_WORDS,
                       NULL,
                       2,
-                      NULL);*/
+                      NULL);
 	
 
 	if (ret != pdPASS)  {
@@ -324,5 +324,5 @@ void app_main(void)
     }
 	else
 		ESP_LOGE(TAG, "mqtt create client thread %s SUCESS", "ultrasonic_AutoBreak");
-
+	*/
 }

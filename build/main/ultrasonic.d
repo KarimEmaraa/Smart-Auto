@@ -1,5 +1,5 @@
-ultrasonic.o: /home/hp/NODE-MCU-WS/project_template/main/ultrasonic.c \
- /home/hp/NODE-MCU-WS/project_template/main/ultrasonic.h \
+ultrasonic.o: /home/hp/NODE-MCU-WS/Smart-Auto/main/ultrasonic.c \
+ /home/hp/NODE-MCU-WS/Smart-Auto/main/ultrasonic.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/driver/gpio.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/stdint.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/machine/_default_types.h \
@@ -29,7 +29,7 @@ ultrasonic.o: /home/hp/NODE-MCU-WS/project_template/main/ultrasonic.c \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/esp8266/gpio_register.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/freertos/include/freertos/FreeRTOS.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h \
- /home/hp/NODE-MCU-WS/project_template/build/include/sdkconfig.h \
+ /home/hp/NODE-MCU-WS/Smart-Auto/build/include/sdkconfig.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/stdlib.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/machine/stdlib.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/alloca.h \
@@ -59,7 +59,7 @@ ultrasonic.o: /home/hp/NODE-MCU-WS/project_template/main/ultrasonic.c \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/freertos/include/freertos/private/list.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/sys/time.h
 
-/home/hp/NODE-MCU-WS/project_template/main/ultrasonic.h:
+/home/hp/NODE-MCU-WS/Smart-Auto/main/ultrasonic.h:
 
 /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/driver/gpio.h:
 
@@ -119,7 +119,7 @@ ultrasonic.o: /home/hp/NODE-MCU-WS/project_template/main/ultrasonic.c \
 
 /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h:
 
-/home/hp/NODE-MCU-WS/project_template/build/include/sdkconfig.h:
+/home/hp/NODE-MCU-WS/Smart-Auto/build/include/sdkconfig.h:
 
 /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/stdlib.h:
 
@@ -176,4 +176,4 @@ ultrasonic.o: /home/hp/NODE-MCU-WS/project_template/main/ultrasonic.c \
 /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/freertos/include/freertos/private/list.h:
 
 /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/sys/time.h:
-/home/hp/NODE-MCU-WS/project_template/main/./ultrasonic.c:
+/home/hp/NODE-MCU-WS/Smart-Auto/main/./ultrasonic.c:
