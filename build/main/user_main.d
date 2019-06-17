@@ -112,7 +112,8 @@ user_main.o: /home/hp/NODE-MCU-WS/Smart-Auto/main/user_main.c \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/esp8266/pin_mux_register.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/esp8266/eagle_soc.h \
  /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/esp8266/gpio_register.h \
- /home/hp/NODE-MCU-WS/Smart-Auto/main/ultrasonic.h
+ /home/hp/NODE-MCU-WS/Smart-Auto/main/ultrasonic.h \
+ /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/driver/uart.h
 
 /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/newlib/newlib/include/stdio.h:
 
@@ -341,4 +342,6 @@ user_main.o: /home/hp/NODE-MCU-WS/Smart-Auto/main/user_main.c \
 /home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/esp8266/gpio_register.h:
 
 /home/hp/NODE-MCU-WS/Smart-Auto/main/ultrasonic.h:
+
+/home/hp/NodeMCU/v3/ESP8266_RTOS_SDK-release-v3.1/components/esp8266/include/driver/uart.h:
 /home/hp/NODE-MCU-WS/Smart-Auto/main/./user_main.c:
